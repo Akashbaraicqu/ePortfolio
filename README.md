@@ -3,7 +3,7 @@
      <h1> #ePortfolio <h1>
   </head>
   <body>
-   <h3>1. Cmmunicational concepts and strategies.</h3>
+   <h3>1. Communicational concepts and strategies.</h3>
     - Communication strategy is a plan to achieve communication objectives. This may apply to internal communications, marketing communications and public relations.
    <h3> 2. Show confidence and skills in oral communications and presentations.</h3>
      <img src="2.jpg">
