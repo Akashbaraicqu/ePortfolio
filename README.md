@@ -8,7 +8,7 @@
    <h3> 2. Show confidence and skills in oral communications and presentations.</h3>
      <img src="2.jpg">
    <h3>3. Work effectively as part of a team.</h3>
-     <img src="link">
+     <img src="3.jpg">
    <h3>4. Communicate effectively in a professional context.</h3>
     <p> - Know where to communicate and about what.<p>
     <p> - Build your collaboration skills. <p>
@@ -20,6 +20,7 @@
      <p>- Negotiate with difficult people<p>
      <p>- Determine whether to litigate, negotiate, or pursue both strategies simultaneously<p>
      <img src="5.jpg">
+     <h4>References: Google<h4>
    </body>
    </html>
 
