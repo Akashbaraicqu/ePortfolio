@@ -4,7 +4,7 @@
   </head>
   <body>
    <h3>1. Cmmunicational concepts and strategies.</h3>
-    <img src="">
+    - Communication strategy is a plan to achieve communication objectives. This may apply to internal communications, marketing communications and public relations.
    <h3> 2. Show confidence and skills in oral communications and presentations.</h3>
      <img src="2.jpg">
    <h3>3. Work effectively as part of a team.</h3>
